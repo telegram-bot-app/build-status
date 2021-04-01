@@ -12,6 +12,9 @@ This README file is a simple dashboard / overview of project components.
 #### Microservice: Text analysis
 [![Microservice: text-analysis.v2](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/build.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/build.yaml)
 
+#### Microservice: Commands
+[![Microservice: commands.v2](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/build.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/build.yaml)
+
 ## Libraries
 
 #### Library: Testing helpers
