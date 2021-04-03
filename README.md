@@ -4,16 +4,19 @@ This README file is a simple dashboard / overview of project components.
 ## Microservices
 
 #### Microservice: Logging
-[![Microservice: logging.v2](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/build.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/build.yaml)
+[![Microservice: logging.v2](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/test.yaml)
 
 #### Microservice: Language
-[![Microservice: language.v2](https://github.com/telegram-bot-app/ms.language.v2/actions/workflows/build.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.language.v2/actions/workflows/build.yaml)
+[![Microservice: language.v2](https://github.com/telegram-bot-app/ms.language.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.language.v2/actions/workflows/test.yaml)
 
 #### Microservice: Text analysis
-[![Microservice: text-analysis.v2](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/build.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/build.yaml)
+[![Microservice: text-analysis.v2](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/test.yaml)
 
 #### Microservice: Commands
-[![Microservice: commands.v2](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/build.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/build.yaml)
+[![Microservice: commands.v2](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/test.yaml)
+
+#### Microservice: Antivirus
+[![Microservice: antivirus.v2](https://github.com/telegram-bot-app/ms.antivirus.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.antivirus.v2/actions/workflows/test.yaml)
 
 ## Libraries
 
