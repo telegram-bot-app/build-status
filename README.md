@@ -3,6 +3,9 @@
 This README file is a simple dashboard / overview of project components.
 ## Microservices
 
+#### Microservice: Translation
+[![Microservice: translation.v2](https://github.com/telegram-bot-app/ms.translation.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.translation.v2/actions/workflows/test.yaml)
+
 #### Microservice: Logging
 [![Microservice: logging.v2](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/test.yaml)
 
