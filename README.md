@@ -9,7 +9,7 @@ authentication [![Microservice: text-analysis](https://github.com/telegram-bot-a
 
 decision [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-decision/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-decision)
 
-website-v3 [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms.website.v3/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.website.v3)
+website-v3 [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms.website.v3/actions/workflows/test-and-release.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.website.v3)
 
 commands [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-commands/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-commands)
 
