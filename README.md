@@ -1,11 +1,12 @@
 ## telegram-bot.app (v7) build status
 
 This README file is a simple dashboard / overview of project components.
-## Microservices
+
+#### Microservices
 
 text-analysis [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-text-analysis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-text-analysis)
 
-authentication [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-authentication/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/msauthentication)
+authentication [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-authentication/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-authentication)
 
 decision [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-decision/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-decision)
 
@@ -39,9 +40,7 @@ statistics [![Microservice: text-analysis](https://github.com/telegram-bot-app/m
 
 text-analysis [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-text-analysis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-text-analysis)
 
-## Libraries
-
-#### Library: Testing helpers
+#### Libraries
 
 shared [![Microservice: text-analysis](https://github.com/telegram-bot-app/lib-shared/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib-shared)
 
