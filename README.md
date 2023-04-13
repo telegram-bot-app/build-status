@@ -3,39 +3,52 @@
 This README file is a simple dashboard / overview of project components.
 ## Microservices
 
-[![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-text-analysis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-text-analysis)
+text-analysis [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-text-analysis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-text-analysis)
 
-#### Microservice: Translation
-[![Microservice: translation.v2](https://github.com/telegram-bot-app/ms.translation.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.translation.v2/actions/workflows/test.yaml)
+authentication [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-authentication/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/msauthentication)
 
-#### Microservice: Logging
-[![Microservice: logging.v2](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.logging.v2/actions/workflows/test.yaml)
+decision [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-decision/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-decision)
 
-#### Microservice: Language
-[![Microservice: language.v2](https://github.com/telegram-bot-app/ms.language.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.language.v2/actions/workflows/test.yaml)
+website-v3 [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms.website.v3/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.website.v3)
 
-#### Microservice: Text analysis
-[![Microservice: text-analysis.v2](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.text-analysis.v2/actions/workflows/test.yaml)
+commands [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-commands/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-commands)
 
-#### Microservice: Commands
-[![Microservice: commands.v2](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.commands.v2/actions/workflows/test.yaml)
+audit [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-audit/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-audit)
 
-#### Microservice: Antivirus
-[![Microservice: antivirus.v2](https://github.com/telegram-bot-app/ms.antivirus.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.antivirus.v2/actions/workflows/test.yaml)
+main-bot [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-main-bot/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-main-bot)
+
+payments [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-payments/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-payments)
+
+user-profile [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-user-profile/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-user-profile)
+
+notifications [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-notifications/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-notifications)
+
+cleaner [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-cleaner/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-cleaner)
+
+logging [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-logging/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-logging)
+
+admins [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-admins/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-admins)
+
+group-profile [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-group-profile/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-group-profile)
+
+language [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-language/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-language)
+
+monitoring [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-monitoring/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-monitoring)
+
+statistics [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-statistics/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-statistics)
+
+text-analysis [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-text-analysis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-text-analysis)
 
 ## Libraries
 
 #### Library: Testing helpers
-[![Library: Test helpers](https://github.com/telegram-bot-app/lib.test-helpers-v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib.test-helpers-v2/actions/workflows/test.yaml)
 
-#### Library: Database
-[![Library: Database](https://github.com/telegram-bot-app/lib.database-v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib.database-v2/actions/workflows/test.yaml)
+shared [![Microservice: text-analysis](https://github.com/telegram-bot-app/lib-shared/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib-shared)
 
-#### Library: Helpers
-[![Library: Helpers](https://github.com/telegram-bot-app/lib.helpers-v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib.helpers-v2/actions/workflows/test.yaml)
+redis [![Microservice: text-analysis](https://github.com/telegram-bot-app/lib-redis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib-redis)
 
-#### Library: Monitoring
-[![Library: Monitoring](https://github.com/telegram-bot-app/lib.monitoring-v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib.monitoring-v2/actions/workflows/test.yaml)
+stats [![Microservice: text-analysis](https://github.com/telegram-bot-app/lib-stats/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib-stats)
 
-#### Library: Queue
-[![Library: Queue](https://github.com/telegram-bot-app/lib.queue-v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib.queue-v2/actions/workflows/test.yaml)
+queue [![Microservice: text-analysis](https://github.com/telegram-bot-app/lib-queue/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib-queue)
+
+monitoring [![Microservice: text-analysis](https://github.com/telegram-bot-app/lib-monitoring/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/lib-monitoring)
