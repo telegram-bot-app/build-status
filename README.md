@@ -3,9 +3,7 @@
 This README file is a simple dashboard / overview of project components.
 ## Microservices
 
-<div id="hr">
 [![Microservice: text-analysis](https://github.com/telegram-bot-app/ms-text-analysis/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms-text-analysis)
-</div>
 
 #### Microservice: Translation
 [![Microservice: translation.v2](https://github.com/telegram-bot-app/ms.translation.v2/actions/workflows/test.yaml/badge.svg)](https://github.com/telegram-bot-app/ms.translation.v2/actions/workflows/test.yaml)
